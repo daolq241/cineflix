@@ -15,7 +15,7 @@ public class HomeController {
 		
 		int soA = 10;
 		int soB = 20;
-		int soC = 80;
+		int soC = 7;
 		int soD = 30;
 		int soF = 99;
 		
