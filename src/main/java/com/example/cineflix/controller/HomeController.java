@@ -16,6 +16,7 @@ public class HomeController {
 		int soA = 10;
 		int soB = 20;
 		int soC = 55;
+		int soD = 30;
 		
 		int tong = tinhTong(soA, soB);
 		
